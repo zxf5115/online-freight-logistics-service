@@ -21,9 +21,9 @@ return [
     ],
 
     'aliyun' => [
-        'access_key_id' => 'LTAI4GGhgnv2VrY9MF4XGWJP',
-        'access_key_secret' => '0y26t2lUSmSg1qZb97rK4T6Tm6wMwI',
-        'sign_name' => '均衡营养云职业服务平台',
+        'access_key_id' => '',
+        'access_key_secret' => '',
+        'sign_name' => '',
     ],
   ],
 ];
